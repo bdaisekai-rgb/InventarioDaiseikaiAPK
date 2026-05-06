@@ -1,0 +1,2 @@
+Proyecto APK completo.
+Subir a GitHub y ejecutar Actions.
